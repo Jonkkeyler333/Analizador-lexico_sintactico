@@ -1,2 +1,4 @@
 En el archivo de implementación se encontraran 3 secciones 
-Las cuales las primera y la segunda corresponden al analizor léxico y sintáctico respectivamente
+Las cuales las primera y la segunda corresponden al analizor léxico y sintáctico respectivamente , finalmente se encuentra
+una interfaz gráfica para revisar el pseudocodigo.
+Por favor ejecutese asi -> 1.Analizador léxico -> 2.Analizador Sinctactico -> GUI
